@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Acer\Pictures\Saved Pictures\ESP32_DevKit\PCB_FINAL.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_final-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_final-slotholes.txt|DrillLayers=gtl,gbl
